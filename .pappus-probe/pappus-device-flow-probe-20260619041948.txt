@@ -1,0 +1,4 @@
+Pappus GitHub device-flow probe
+source_repo=pappus-ai/por-test
+branch=pappus-device-flow-probe-20260619041948
+created_at=2026-06-19T04:19:49.947Z
